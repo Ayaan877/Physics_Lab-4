@@ -1,0 +1,10 @@
+Name,Planck's Constant Apparatus,,,,,,
+Model,HO-ED-EM-02,,,,,,
+Sensitivity,10^-11,,,,,,
+,,,,,,,
+Filter,Wavelength (nm),Frequency (Hz),V1 (V),V2 (V),V3 (V),V4 (V),V5 (V)
+violet,578,5.19E+14,0.44,0.46,0.46,0.46,0.47
+pink,546,5.49E+14,0.51,0.53,0.53,0.53,0.53
+red,505,5.94E+14,0.62,0.64,0.64,0.65,0.65
+yellow,450,6.67E+14,0.92,0.92,0.92,0.92,0.93
+purple,404,7.43E+14,1.11,1.11,1.12,1.12,1.12
